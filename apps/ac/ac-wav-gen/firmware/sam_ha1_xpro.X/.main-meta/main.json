@@ -1,0 +1,69 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.0.0",
+        "name": "com.microchip.mcu32.mplabx.project.sam_ha1_xpro",
+        "version": "1.0.0",
+        "displayName": "MHC sam_ha1_xpro",
+        "projectName": "sam_ha1_xpro",
+        "shortDescription": "MCHP Harmony sam_ha1_xpro",
+        "ide": {
+            "name": "MPLABX",
+            "semverRange": ">=5.30.0"
+        },
+        "compiler": {
+            "name": "XC8",
+            "semverRange": "^5.30"
+        },
+        "dfp": {
+            "name": "PIC18F25K42_DFP",
+            "semverRange": "^1.3.222"
+        },
+        "configurator": {
+            "name": "MCC",
+            "semverRange": ">=3.75"
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "PIC18F25K42",
+                "versionRange": "*"
+            }
+        },
+        "author": "Microchip",
+        "subcategories": [
+            [
+                "Labs",
+                "PWM"
+            ]
+        ],
+        "peripherals": [
+            "PWM",
+            "TMR",
+            "CCP",
+            "ADC"
+        ],
+        "keywords": [
+            "Labs",
+            "ADC",
+            "PWM",
+            "Timer",
+            "Interrupt"
+        ],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }        
+    }
+}
