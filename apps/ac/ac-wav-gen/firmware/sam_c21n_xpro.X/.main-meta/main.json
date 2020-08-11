@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.0.0",
         "name": "com.microchip.mcu32.mplabx.project.sam_c21n_xpro",
-        "version": "1.6.0",
+        "version": "1.7.0",
         "displayName": "MHC sam_c21n_xpro",
         "projectName": "sam_c21n_xpro",
         "shortDescription": "MCHP Harmony sam_c21n_xpro",
